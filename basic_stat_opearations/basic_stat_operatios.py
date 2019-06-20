@@ -60,7 +60,7 @@ print('pearsonCorrCoeff = ',round(pearsonCorrCoeff(arr1,arr2),4))
 print('covarince = ',round(cov(arr1,arr2),4), '\n')
 
 #%%
-#Displaying stat properties calculated using user defiend functions
+#Displaying stat properties calculated using default functions
 
 from scipy import stats
 import numpy as np
